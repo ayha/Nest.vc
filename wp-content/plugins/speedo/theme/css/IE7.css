@@ -1,0 +1,5 @@
+#sendbutton, #clearbutton {
+	position: relative;
+	right: 55px;
+}
+.popupbox-2 .thecontent {background: url(../images/line.png) no-repeat bottom -20px;}

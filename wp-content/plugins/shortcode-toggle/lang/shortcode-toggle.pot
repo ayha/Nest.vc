@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Shortcode Toggle\n"
+"POT-Creation-Date: 2014-03-08 09:15+0800\n"
+"PO-Revision-Date: 2014-03-08 09:15+0800\n"
+"Last-Translator: Arefly <eflyjason@gmail.com>\n"
+"Language-Team: Arefly <eflyjason@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: help.php:3 help.php:15
+msgid "Shortcode Toggle Help Page"
+msgstr ""
+
+#: help.php:3
+msgid "Shortcode Toggle"
+msgstr ""
+
+#: help.php:18
+msgid "Shortcode Usage"
+msgstr ""
+
+#: help.php:19
+msgid "You may add following short code to your post."
+msgstr ""
+
+#: help.php:21 help.php:23
+msgid "Title"
+msgstr ""
+
+#: help.php:21 help.php:23
+msgid "Some Content..."
+msgstr ""
+
+#: shortcode-toggle.php:48
+msgid "Help"
+msgstr ""

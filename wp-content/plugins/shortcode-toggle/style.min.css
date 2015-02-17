@@ -1,0 +1,3 @@
+.toggle_title{background:url(img/plus.png) no-repeat;height:29px;font-size:14px;color:#5e6069;cursor:pointer;padding:3px 0 0 48px;user-select:none;-webkit-user-select:none;-moz-user-select:none;width:584px}
+.toggle_active{background:url(img/minus.png) no-repeat;height:29px;width:584px}
+.toggle_content{background:#F5F5F5;color:#515151;border-left:1px solid #DEDEDE;border-bottom:1px solid #DEDEDE;border-right:1px solid #DEDEDE;overflow:auto;margin:-3px 0 15px;padding:5px 15px;width:584px}

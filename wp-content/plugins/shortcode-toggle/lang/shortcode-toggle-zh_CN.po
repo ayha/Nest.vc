@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Shortcode Toggle\n"
+"POT-Creation-Date: 2014-03-08 09:15+0800\n"
+"PO-Revision-Date: 2014-03-08 09:17+0800\n"
+"Last-Translator: Arefly <eflyjason@gmail.com>\n"
+"Language-Team: Arefly <eflyjason@gmail.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: help.php:3 help.php:15
+msgid "Shortcode Toggle Help Page"
+msgstr "短代码下拉菜单帮助页面"
+
+#: help.php:3
+msgid "Shortcode Toggle"
+msgstr "短代码下拉菜单"
+
+#: help.php:18
+msgid "Shortcode Usage"
+msgstr "短代码用法"
+
+#: help.php:19
+msgid "You may add following short code to your post."
+msgstr "你可以将下列短代码加入你的文章中"
+
+#: help.php:21 help.php:23
+msgid "Title"
+msgstr "标题"
+
+#: help.php:21 help.php:23
+msgid "Some Content..."
+msgstr "一些内容..."
+
+#: shortcode-toggle.php:48
+msgid "Help"
+msgstr "帮助"

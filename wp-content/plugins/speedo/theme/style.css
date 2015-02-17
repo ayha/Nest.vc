@@ -1,0 +1,375 @@
+/*
+Theme Name: Speedo
+Theme URI: http://woow.web.id/
+Version: 1.0.0 
+Description: Speedo is an Under Construction/Maintenance/Coming Soon Page Template. Designed and Developed by <a href="http://themeforest.net/user/WOOWwebID" target="_blank">WOOW.web.ID</a>.
+Author: <a href="http://themeforest.net/user/WOOWwebID" target="_blank">WOOW.web.ID</a>
+Author URI: http://themeforest.net/user/WOOWwebID
+Tags: clean, magazine, newsletter
+*/
+
+/*----------------------------------------------------------------------------------------------------*/
+/* Reset CSS - http://meyerweb.com/eric/tools/css/reset/ | v2.0 | 20110126 */
+/*----------------------------------------------------------------------------------------------------*/
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video {margin: 0;padding: 0;border: 0;font-size: 100%;font: inherit;vertical-align: baseline;}
+
+/*----------------------------------------------------------------------------------------------------*/
+/* HTML5 display-role reset for older browsers */
+/*----------------------------------------------------------------------------------------------------*/
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {display: block;}
+ol,ul {list-style: none;}
+blockquote,q {quotes: none;}
+blockquote:before,blockquote:after,q:before, q:after {content: '';content: none;}
+table {border-collapse: collapse;border-spacing: 0;}
+
+/*----------------------------------------------------------------------------------------------------*/
+/* Main Thypography */
+/*----------------------------------------------------------------------------------------------------*/
+html > body {font-family: Arial, Helvetica, sans-serif;font-size: 0.75em;line-height: 1.5em;text-decoration: none;}
+h1 {font-size: 3.6em;}
+h2 {font-size: 2.8em;}
+h3 {font-size: 2.4em;}
+h4 {font-size: 1.6em;}
+h5 {font-size: 1.4em;}
+h6 {font-size: 1.2em;}
+h1, h2, h3, h4, h5, h6 {font-weight: normal;}
+ul, ol{margin: 0 1em;}
+ul {list-style-type: disc;}
+ol {list-style-type: decimal;}
+a {outline:none; text-decoration: none;}
+a:hover {text-decoration: underline;}
+.bold {font-weight: bold;}
+.uppercase {text-transform: uppercase;}
+.capitalize {text-transform: capitalize;}
+.meta {font-size: 0.75em;}
+
+/*----------------------------------------------------------------------------------------------------*/
+/* Floating & Alignment  */
+/*----------------------------------------------------------------------------------------------------*/
+.fl{float:left;}.fr{float:right;}.ac{text-align:center;}.ar{text-align:right;}.aj{text-align:justify;}
+
+/*----------------------------------------------------------------------------------------------------*/
+/* Clear Floats  */
+/*----------------------------------------------------------------------------------------------------*/
+.clear {overflow: hidden;}
+.clearfix:after {content: ' '; font-size: 0; line-height: 0;}
+.clear,.clearfix:after {width: 0;height: 0;clear: both; display: block; visibility: hidden;}
+
+/*----------------------------------------------------------------------------------------------------*/
+/* Images */
+/*----------------------------------------------------------------------------------------------------*/
+img.alignright, a img.alignright {float: right;margin: 0 0 0 0.75em;}
+img.alignleft, a img.alignleft {float: left;margin: 0 0.75em 0 0;}
+img.aligncenter, a img.aligncenter {display: block;margin: 0 auto;}
+
+/*----------------------------------------------------------------------------------------------------*/
+/* Quotes */
+/*----------------------------------------------------------------------------------------------------*/
+blockquote {font-size: 1.4em;font-family: Georgia, "Times New Roman", Times;line-height: 1.3em;font-style: italic;margin: 0 1em;}
+blockquote > *:before {content: "\201C";}
+blockquote > *:after {content: "\201D";}
+
+/*----------------------------------------------------------------------------------------------------*/
+/* Main Global Properties */
+/*----------------------------------------------------------------------------------------------------*/
+html > body {color: #777; background: #000 url(images/bodybg.png) repeat-x top left;}
+#wrapper {width: 940px;margin: 0 auto;}
+.maincontent {width: 440px;margin: 0 20px !important;}
+.border {border: 1px solid #111;}
+.txt1 {font-size: 1.6em;color: #fff;}
+.txt2 {font-size: 2.2em;padding: 5px 0;}
+
+/*----------------------------------------------------------------------------------------------------*/
+/* Logo & Label */
+/*----------------------------------------------------------------------------------------------------*/
+#logo, .label {width: 230px;margin: 10px 0 !important;}
+
+/*----------------------------------------------------------------------------------------------------*/
+/* Sidebar */
+/*----------------------------------------------------------------------------------------------------*/
+.sidebarLeft, .sidebarRight {width: 230px;margin-top: 50px;}
+.widget {margin: 10px 0;}
+.widget, .widget li {list-style: none;}
+.widget-title {
+	padding-top: 10px;
+	margin-bottom: 5px;
+	color: #fff;
+}
+
+/*----------------------------------------------------------------------------------------------------*/
+/* Progress Bar */
+/*----------------------------------------------------------------------------------------------------*/
+#progress_container {
+	width: 224px;
+	height: 24px;
+	padding: 3px;
+	margin: 10px auto;
+	background: #1a1a1a;
+}
+#progress .text {
+	font-size: 1.4em;
+	line-height: 24px;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #000;
+	color: #fff;
+}
+.progress {background: none;}
+.progressbar {width: 100%;height: 24px;}
+
+/*----------------------------------------------------------------------------------------------------*/
+/* Menu */
+/*----------------------------------------------------------------------------------------------------*/
+#menu ul {
+	height: 30px;
+	list-style: none;
+	margin: 10px auto !important;
+	clear: both;
+}
+#menu li {
+	width: 24px;
+	height: 24px;
+	margin: 0 1px;
+	float: left;
+}
+#menu li a {
+	width: 24px;
+	height: 24px;
+	color: #fff;
+	line-height: 24px;
+	display: block;
+}
+.info {background:url(images/icon-info.png) no-repeat 0 0;}
+.contact {background:url(images/icon-contact.png) no-repeat 0 0;}
+.tweeturl {background:url(images/icon-twitter.png) no-repeat 0 0;}
+.fburl {background:url(images/icon-facebook.png) no-repeat 0 0;}
+.info:hover, .contact:hover, .tweeturl:hover, .fburl:hover {background-position: 0 -24px;}
+
+/*----------------------------------------------------------------------------------------------------*/
+/* Main Message & Copyright */
+/*----------------------------------------------------------------------------------------------------*/
+.main-msg1 {color: #fff;padding: 5px;}
+.main-msg2 {margin-bottom: 10px;}
+#footer {padding: 5px 0;margin: 0 auto;}
+
+/*----------------------------------------------------------------------------------------------------*/
+/* TWITTER */
+/*----------------------------------------------------------------------------------------------------*/
+.tweet {
+	width: 440px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-style: italic;
+	color: #777;
+	padding: 10px;
+	margin: 0 auto;
+	position: relative;
+}
+.tweet .text {
+	width: 340px;
+	text-align: left;
+	padding: 0 0 0 50px;
+	background: url(images/twitterbird.png) no-repeat 0 0;
+}
+.tweet img {float: left;}
+
+/*----------------------------------------------------------------------------------------------------*/
+/* Subscriber Form */
+/*----------------------------------------------------------------------------------------------------*/
+.subscriberForm {
+	width: auto;
+	height: 24px;
+	padding: 3px;
+	margin: 10px auto 0;
+	float: left;
+	background: #1a1a1a;
+}
+.subscriberInput {
+	width: 165px;
+	height: 14px;
+	font-family: Arial, Helvetica, sans-serif !important;
+	font-size: 1em !important;
+	padding: 5px;
+	border: none;
+	float: left;
+	color: #555;
+	background: none;
+}
+.subscriberButton {
+	width: 45px;
+	height: 24px;
+	font-family: Arial, Helvetica, sans-serif !important;
+	font-weight: bold;
+	padding: 3px 5px;
+	cursor: pointer;
+	border: none;
+	float: right;
+	color: #fff;
+}
+.subscriberButton:hover {background-position: 0 -24px;}
+#submessage {
+	width: 230px;
+	font-size: 1em !important;
+	margin: 10px auto 0;
+	display: none;
+	color: #6C0;
+}
+#warning p {color: #f90;}
+.loader {
+	width: 24px;
+	height: 24px;
+	margin: 10px auto 0;
+}
+
+/*----------------------------------------------------------------------------------------------------*/
+/* Countdown */
+/*----------------------------------------------------------------------------------------------------*/
+#countdown {width: 230px;margin: 10px 0;}
+.timer {font-weight: bold;}
+
+/*----------------------------------------------------------------------------------------------------*/
+/* AJAX PopUp */
+/*----------------------------------------------------------------------------------------------------*/
+.popupbox-1 {width: 940px;color: #222;}
+.popupbox-2 {width: 500px;}
+.popupbox-1, .popupbox-2 {
+	height: auto;
+	background: url(images/opacity80.png);
+	display: none; /* Hidden as default */
+	float: left;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	z-index: 99999;
+	border: 10px solid #333;
+}
+.insidePop-L {width: 580px;height: auto;}
+.insidePop-R {
+	width: 230px;
+	height: auto;
+	padding: 15px;
+	background: #fff;
+	color: #222;
+}
+.insidePop-R li {border-top: 1px dotted #888;}
+.thecontent {padding: 10px 0;margin: 10px 0;}
+#fade { 
+	display: none; /* Hidden as default */
+	background: #000;
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%; height: 100%;
+	opacity: .80;
+	z-index: 9999;
+}
+.popContent {color: #aaa;padding: 30px;}
+.popContent h1, .popContent h2, .popContent h3, .popContent h4, .popContent h5, .popContent h6  {
+	padding-bottom: 10px;
+	clear: both;
+}
+.popContent p {margin-bottom: 1em;}
+.popContent ul {list-style: none;margin: 0;clear: both;}
+.popContent li {clear: both;padding: 7px 0;}
+.popContent b {font-size: 1.2em;}
+.close {
+	width:50px;
+	height:50px;
+	position: absolute;
+	top: 5px;
+	right: -20px;
+	float:right;
+	background: url(images/close.png) no-repeat 0 0;
+}
+innnerBox {
+	width: 250px;
+	height: auto;
+	margin: 0 10px;
+	float: left;
+}
+
+/*----------------------------------------------------------------------------------------------------*/
+/* Contact Form */
+/*----------------------------------------------------------------------------------------------------*/
+#contactForm {
+	margin: 0 auto 20px;
+	float: left;
+}
+#contactForm .input {
+	width: 320px;
+	height: 20px;
+	font-size: 12px;
+	padding: 5px 10px;
+	margin: 0 0 15px 0;
+}
+#contactForm textarea {
+	width: 320px;
+	font-size: 12px;
+	padding: 10px;
+	margin: 0 0 15px 0;
+	overflow: hidden;
+}
+#contactForm .input, #contactForm textarea {
+	color: #ddd;
+	background: #222;
+	border: 1px solid #444;
+}
+#last {
+	visibility: hidden;
+}
+#contactForm label {
+	width: 60px;
+	height: auto;
+	margin: 0 20px 0 0;
+	float: left;
+}
+#contactForm .button {
+	width: 95px;
+	height: auto;
+	font-size: 14px;
+	padding: 5px 20px;
+	margin: 0 0 0 5px;
+	float: right;
+	color: #fff;
+	border: none;
+	background: #222;
+}
+.process {
+	width: 25px;
+	height: 25px;
+	padding: 0;
+	margin: 10px 20px 0 0;
+	float: right;
+}
+img.loading {
+	float: right;
+	vertical-align: middle;
+	margin: 0;
+}
+p.load {
+	line-height: 35px;
+	color: #F60;
+	padding: 0;
+	margin: 0;
+}
+.message {
+	width: 500px;
+	font-weight: normal;
+	font-size: 18px;
+	text-align: center;
+	line-height: 2em;
+	display: none;
+	top: 0;
+	left: 0;
+	position: absolute;
+	padding: 90px 0;
+	color: #f00;
+	background: url(./images/opacity80.png);
+}
+.message ul {
+	font-size: 12px;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.message li {line-height: 1em;}
+.message li, .alert li {color: #f90;}
+.bot {visibility: hidden;display: none;}

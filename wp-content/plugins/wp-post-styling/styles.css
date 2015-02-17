@@ -1,0 +1,16 @@
+#wp-post-styling {margin: 0 15px;} 
+#wp-post-styling fieldset {margin: 0;padding:0;border: none;}
+#wp-post-styling legend {font-weight: 700;}
+#wp-post-styling form p {padding: 4px 5px;margin: 2px 0;}
+#wp-post-styling form .error p {background: none;border: none;}
+#wp-post-styling .post-styling-options {width: 30%;}
+#wp-post-styling .post-styling-library {width: 50%; float: right; }
+#wp-post-styling .post-styling-library textarea { width: 100%; }
+.resources {float: right;border: 1px solid #aaa;padding: 0 10px;margin-left: 10px;border-radius: 5px;background: #f6f6f6;text-align: center;}
+#wp-post-styling .resources ul { margin: 10px 0 0;}
+#wp-post-styling .resources form{margin: 0;}
+#wp-style-library {width: 100%;}
+#wp-style-library tr.odd {background: #fafafa;}
+#wp-style-library .delete a {color: red; text-decoration: none;}
+#wp-style-library .delete a:hover, #wp-style-library .delete a:focus { text-decoration: underline; }
+.post-styling-entries { clear: both; }

@@ -1,0 +1,10 @@
+a, .txt2, .main-msg2 {color: #f90;}
+#speedometer {background: url(../images/orange/speedometer.png);}
+.insidePop-R {border: 10px solid #f90;}
+.tweet a, .copyright a, .timer {color: #fed89f;}
+.widget-title, .tweet, #footer {background: url(../images/orange/line.png) no-repeat top center;}
+.popContent h1, .thecontent {background: url(../images/orange/line.png) no-repeat bottom;}
+.subscriberButton {background: url(../images/orange/go.png) no-repeat 0 0;}
+#contactForm .button:hover {background: #f90;}
+.lineL  {background: url(../images/orange/labelL.png) no-repeat bottom right;}
+.lineR {background: url(../images/orange/labelR.png) no-repeat bottom right;}
