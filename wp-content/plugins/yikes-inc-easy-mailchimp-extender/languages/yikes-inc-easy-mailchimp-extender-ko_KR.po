@@ -1,0 +1,758 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yikes Inc. Easy MailChimp Plugin\n"
+"POT-Creation-Date: 2014-04-23 14:30-0500\n"
+"PO-Revision-Date: 2014-04-23 14:52-0500\n"
+"Last-Translator: Evan <evan.m.herman@gmail.com>\n"
+"Language-Team: Yikes Inc. <evan@yikesinc.com>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././classes/class.yksemeBase.php:114
+#: .././classes/class.yksemeBase.php:1287
+msgid "Thank You for subscribing!"
+msgstr "신청 해주셔서 감사합니다!"
+
+#: .././classes/class.yksemeBase.php:115
+#: .././classes/class.yksemeBase.php:1288
+msgid ""
+"Thank You for subscribing! Check your email for the confirmation message."
+msgstr "신청 해주셔서 감사합니다! 확인 메시지가 귀하의 이메일을 확인합니다."
+
+#: .././classes/class.yksemeBase.php:116
+msgid "Select Your Area of Interest"
+msgstr "관심의 영역을 선택합니다"
+
+#: .././classes/class.yksemeBase.php:917
+msgid "Click on a subscriber to see further information"
+msgstr "더 자세한 정보를 확인하려면 가입자를 클릭"
+
+#: .././classes/class.yksemeBase.php:920
+msgid "E-Mail"
+msgstr "E-메일"
+
+#: .././classes/class.yksemeBase.php:921
+msgid "Date Subscribed"
+msgstr "날짜 구독"
+
+#: .././classes/class.yksemeBase.php:941
+msgid "Sorry You Don't Currently Have Any Subscribers In This List!"
+msgstr "죄송 현재이 목록에있는 가입자가 없어!"
+
+#: .././classes/class.yksemeBase.php:998
+msgid "Back to Subscriber List"
+msgstr "돌아 가기 가입자 목록에"
+
+#: .././classes/class.yksemeBase.php:999
+msgid "Subscriber Details"
+msgstr "가입자의 자세한 사항"
+
+#: .././classes/class.yksemeBase.php:1010
+msgid "Overview"
+msgstr "개요"
+
+#: .././classes/class.yksemeBase.php:1015
+msgid "First Name"
+msgstr "이름"
+
+#: .././classes/class.yksemeBase.php:1018
+msgid "Last Updated"
+msgstr "최종 업데이트"
+
+#: .././classes/class.yksemeBase.php:1021
+msgid "Preferred Email Type"
+msgstr "선호하는 이메일 유형"
+
+#: .././classes/class.yksemeBase.php:1028
+msgid "Last Name"
+msgstr "성"
+
+#: .././classes/class.yksemeBase.php:1031
+msgid "Language"
+msgstr "언어"
+
+#: .././classes/class.yksemeBase.php:1054
+msgid "Groups Subscribed To"
+msgstr "에 가입 한 그룹"
+
+#: .././classes/class.yksemeBase.php:1104
+msgid "Subscriber Notes"
+msgstr "가입자 노트"
+
+#: .././classes/class.yksemeBase.php:1109
+msgid "Written by"
+msgstr "에 의해 작성된"
+
+#: .././classes/class.yksemeBase.php:1109
+msgid "Created on"
+msgstr "에 생성"
+
+#: .././classes/class.yksemeBase.php:1251
+#: .././classes/class.yksemeBase.php:1253
+msgid "MailChimp Forms"
+msgstr "MailChimp 양식"
+
+#: .././classes/class.yksemeBase.php:1253
+msgid "MailChimp Settings"
+msgstr "MailChimp 설정"
+
+#: .././classes/class.yksemeBase.php:1254
+msgid "Manage List Forms"
+msgstr "목록 양식 관리"
+
+#: .././classes/class.yksemeBase.php:1255 .././pages/about.php:5
+msgid "About YIKES, Inc."
+msgstr "YIKES, 주식 회사 소개"
+
+#: .././classes/class.yksemeBase.php:1430
+msgid "One or more fields are empty"
+msgstr "하나 이상의 필드가 비어"
+
+#: .././classes/class.yksemeBase.php:1480
+msgid "Your List Was Successfully Saved!"
+msgstr "귀하의 목록이 성공적으로 저장되었습니다!"
+
+#: .././classes/class.yksemeBase.php:1482
+msgid "I'm sorry there was an error with your request."
+msgstr "미안 귀하의 요청에 오류가 발생했습니다 해요."
+
+#: .././classes/class.yksemeBase.php:1488
+msgid "MailChimp List name"
+msgstr "MailChimp 목록 이름"
+
+#: .././classes/class.yksemeBase.php:1494
+#: .././classes/class.yksemeBase.php:1504
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: .././classes/class.yksemeBase.php:1512
+msgid "MailChimp List ID"
+msgstr "MailChimp리스트 ID"
+
+#: .././classes/class.yksemeBase.php:1518
+msgid "Shortcode"
+msgstr "단축코드"
+
+#: .././classes/class.yksemeBase.php:1521
+msgid ""
+"Paste this shortcode into whatever page or post you want to add this form to"
+msgstr "어떤 페이지에이 단축 코드를 붙여 넣기하거나이 양식을 추가 할 게시"
+
+#: .././classes/class.yksemeBase.php:1526
+msgid "PHP Snippet"
+msgstr "PHP 코드 조각"
+
+#: .././classes/class.yksemeBase.php:1529
+msgid "Use this code to add this form to a template file"
+msgstr "템플릿 파일에이 양식을 추가하려면이 코드를 사용하여"
+
+#: .././classes/class.yksemeBase.php:1534
+msgid "Number of Subscribers"
+msgstr "구내 구독자의 수"
+
+#: .././classes/class.yksemeBase.php:1543
+msgid "Form Fields"
+msgstr "양식 필드"
+
+#: .././classes/class.yksemeBase.php:1545
+msgid ""
+"Check the fields you want included in your form (Email Address is required)."
+msgstr "당신이 양식에 포함 할 필드를 확인합니다 (전자 메일 주소가 필요합니다.)"
+
+#: .././classes/class.yksemeBase.php:1548
+msgid ""
+"Use the green arrows to drag-and-drop the fields and rearrange their order."
+msgstr "드래그 앤 드롭 필드 및 순서를 재 배열 녹색 화살표를 사용합니다."
+
+#: .././classes/class.yksemeBase.php:1554
+msgid "Active Fields"
+msgstr "활동 분야"
+
+#: .././classes/class.yksemeBase.php:1563
+msgid "Drag"
+msgstr "드래그"
+
+#: .././classes/class.yksemeBase.php:1563
+msgid "drop"
+msgstr "방울, 떨어지다"
+
+#: .././classes/class.yksemeBase.php:1568
+msgid "Merge field"
+msgstr "병합 필드"
+
+#: .././classes/class.yksemeBase.php:1569
+msgid "Placeholder"
+msgstr "자리 표시 자"
+
+#: .././classes/class.yksemeBase.php:1577
+msgid "Redirect User On Submission"
+msgstr "제출에 사용자를 리디렉션"
+
+#: .././classes/class.yksemeBase.php:1581
+msgid "choose a page to redirect the user to after they submit the form."
+msgstr ""
+"페이지를 선택하거나이 양식을 제출 한 후로 사용자를 리디렉션 할 사용자 지정 "
+"URL을 설정합니다."
+
+#: .././classes/class.yksemeBase.php:1584
+msgid "Select A Post/Page"
+msgstr "글 / 페이지를 선택합니다"
+
+#: .././classes/class.yksemeBase.php:1638
+msgid "Save Form Settings"
+msgstr "Mailchimp 양식 설정 관리"
+
+#: .././classes/class.yksemeBase.php:1639
+msgid "Delete Form"
+msgstr "양식 삭제"
+
+#: .././classes/class.yksemeBase.php:1640
+msgid "Re-Import Form Fields from MailChimp"
+msgstr "MailChimp에서 일부 목록을 가져 오십시오"
+
+#: .././classes/class.yksemeBase.php:2168
+msgid "Sign Me Up For MAILCHIMP-REPLACE-THIS-TEXT's Newsletter"
+msgstr "MAILCHIMP - 교체 -이 - TEXT의 뉴스 레터를 신청"
+
+#: .././pages/about.php:27
+msgid "YIKES, Inc. Web Design and Development"
+msgstr "YIKES, 주식 회사 웹 디자인 및 개발"
+
+#: .././pages/about.php:29
+msgid "Smart, effective, beautifully designed web solutions"
+msgstr "스마트, 효과, 아름답게 디자인 된 웹 솔루션"
+
+#: .././pages/about.php:32
+msgid ""
+"YIKES is located in the Fishtown neighborhood of Philadelphia where we build "
+"custom WordPress themes and plugins every day."
+msgstr ""
+"YIKES은 우리가 매일 지정 워드 프레스 테마와 플러그인을 구축 필라델피아의 "
+"Fishtown 인근에 있습니다."
+
+#: .././pages/about.php:36
+msgid ""
+"At YIKES we love WordPress! Co-Owner, Tracy Levesque has presented at "
+"WordCamps"
+msgstr ""
+"YIKES에서 우리는 워드 프레스를 사랑합니다! 공동 소유자, 트레이시 레베 스크는 "
+"WordCamps에서 발표했다"
+
+#: .././pages/about.php:36
+msgid "and"
+msgstr "과"
+
+#: .././pages/about.php:36
+msgid "She also teaches WordPress classes for"
+msgstr "그녀는 또한 워드 프레스의 수업을 가르칩니다"
+
+#: .././pages/about.php:40
+msgid ""
+"In addition to making great WordPress sites we are also committed to the "
+"sustainable business movement. We observe the triple bottom line: people, "
+"planet, profit and work to help build a more socially, environmentally and "
+"financially sustainable local economy. We even have a"
+msgstr ""
+"좋은 워드 프레스 사이트를 만들기 위해 또한 우리는 또한 지속 가능한 비즈니스 "
+"운동에 최선을 다하고 있습니다. 사람들, 행성, 이익, 사회적, 환경 적 및 경제적"
+"으로 지속 가능한 지역 경제를 구축하는 데 도움이 할 일 : 우리는 트리플 하단 라"
+"인을 관찰한다. 우리는 심지어이"
+
+#: .././pages/about.php:40
+msgid "LEED Platinum office"
+msgstr "LEED 플래티넘 사무실"
+
+#: .././pages/about.php:44
+msgid ""
+"If you're interested in hiring us for WordPress development, or just want to "
+"learn more about us, please visit"
+msgstr ""
+"당신이 워드 프레스 개발을 위해 우리를 고용에 관심이하거나 우리에 대해 더 많"
+"은 것을 배우고 싶은 경우에, 방문하시기 바랍니다"
+
+#: .././pages/lists.php:8
+msgid "No forms have been added yet."
+msgstr "어떤 형태는 아직 추가되지 않았다."
+
+#: .././pages/lists.php:39
+msgid "Oops.. The list ID you entered appears to be incorrect."
+msgstr "아차 .. 입력 목록 ID가 잘못 나타납니다."
+
+#: .././pages/lists.php:44
+msgid "There was an error!"
+msgstr "오류가 발생했습니다!"
+
+#: .././pages/lists.php:135
+msgid "You need to select a Mailchimp list in order to create a form for it"
+msgstr "당신은 그것을 양식을 작성하기 위해 Mailchimp 목록을 선택해야합니다"
+
+#: .././pages/lists.php:173
+msgid "Are you sure you want to delete this form?"
+msgstr "당신은 당신이이 양식을 삭제 하시겠습니까?"
+
+#: .././pages/lists.php:206
+msgid "Are you sure you want to re-import your fields from MailChimp?"
+msgstr "당신은 당신이 MailChimp에서 필드를 다시 가져 하시겠습니까?"
+
+#: .././pages/lists.php:228
+msgid "Looks like this form is already up to date!"
+msgstr "이 양식이 최신 이미처럼 보이는!"
+
+#: .././pages/lists.php:326
+msgid "Are you sure you want to unsubscribe"
+msgstr "당신은 당신이 취소 하시겠습니까"
+
+#: .././pages/lists.php:326
+msgid "from this list?"
+msgstr "이 목록에서?"
+
+#: .././pages/lists.php:342
+msgid "was successfully unsubscribed from this list."
+msgstr "성공적으로이 목록을 수신 거부했다."
+
+#: .././pages/lists.php:448 .././pages/options.php:196
+#: .././pages/options.php:416
+msgid "Easy Mailchimp Forms by YIKES, Inc."
+msgstr "YIKES, 주식 회사에 의해 쉽게 Mailchimp 양식"
+
+#: .././pages/lists.php:454
+msgid "Before you can add MailChimp forms to your site, you need to"
+msgstr "당신이 당신의 위치에 MailChimp 양식을 추가하기 전에, 당신은 필요"
+
+#: .././pages/lists.php:454
+msgid "go to the MailChimp Settings page"
+msgstr "MailChimp 설정 페이지로 이동합니다"
+
+#: .././pages/lists.php:454 .././templates/yikes-mailchimp-widget.php:156
+msgid "and add your API Key."
+msgstr "당신의 API 키를 추가합니다."
+
+#: .././pages/lists.php:462
+msgid "You must enter a valid API key to import and manage your lists."
+msgstr ""
+"당신은 당신의 목록을 가져 오기 및 관리 할 수​​있는 유효한 API 키를 입력해야합니"
+"다."
+
+#: .././pages/lists.php:473
+msgid "Your Lists"
+msgstr "귀하의 목록"
+
+#: .././pages/lists.php:483
+msgid "Manage Forms"
+msgstr "양식 관리"
+
+#: .././pages/options.php:41
+msgid "The options were saved successfully!"
+msgstr "옵션이 성공적으로 저장되었습니다!"
+
+#: .././pages/options.php:44
+msgid "The options could not be saved (or you did not change them)."
+msgstr "옵션을 저장할 수 없습니다 (또는 당신이 그들을 변경하지 않았다)."
+
+#: .././pages/options.php:96
+msgid "Valid API Key"
+msgstr "유효한 API 키"
+
+#: .././pages/options.php:102
+msgid "Sorry, that is an invalid MailChimp API key."
+msgstr "죄송합니다, 그것은 잘못된 MailChimp의 API 키입니다."
+
+#: .././pages/options.php:108
+msgid ""
+"Sorry, that is an invalid MailChimp API key. Please check the console for "
+"further information."
+msgstr ""
+"죄송합니다, 그것은 잘못된 MailChimp의 API 키입니다. 자세한 내용은 콘솔을 확인"
+"하시기 바랍니다."
+
+#: .././pages/options.php:117
+msgid "Error: Please enter a valid Mail Chimp API Key."
+msgstr "오류 : 유효한 메일 침팬지 API 키를 입력 해주세요."
+
+#: .././pages/options.php:199
+msgid "Manage Mailchimp Forms Settings"
+msgstr "Mailchimp 양식 설정 관리"
+
+#: .././pages/options.php:205
+msgid "WordPress Version Number Error"
+msgstr "워드 프레스 버전"
+
+#: .././pages/options.php:206
+msgid ""
+"We're sorry, but it looks like your using an outdated version of WordPress. "
+"You won't be able to access the tinyMCE button to insert forms into pages "
+"and posts unless you update to 3.9 or later."
+msgstr ""
+"죄송합니다,하지만 당신은 워드 프레스의 오래된 버전을 사용하는 것 같습니다. 당"
+"신은 당신이 3.9 이상으로 업데이트하지 않으면 페이지와 게시물에 양식을 삽입 "
+"할 TinyMCE를 버튼에 액세스 할 수 없습니다."
+
+#: .././pages/options.php:215
+msgid "LocalHost Detected :"
+msgstr "LocalHost를 감지 :"
+
+#: .././pages/options.php:216
+msgid ""
+"It looks like your using Easy MailChimp Forms by YIKES Inc. on localhost."
+msgstr "YIKES, 주식 회사에 의해 쉽게 Mailchimp 양식"
+
+#: .././pages/options.php:217
+msgid ""
+"If you are unable to validate your API key, and receive the error message"
+msgstr "당신은 당신의 API 키를 검증 할 수없는 및 오류 메시지가 나타날 경우"
+
+#: .././pages/options.php:217
+msgid "\"SSL certificate problem: unable to get local issuer certificate\" "
+msgstr "\"SSL 인증서 문제 : 로컬 발급자 인증서 를 얻을 수 없습니다\""
+
+#: .././pages/options.php:217
+msgid "follow the tutorial located "
+msgstr "있는 튜토리얼을 따라"
+
+#: .././pages/options.php:230
+msgid "Your Mailchimp API Key"
+msgstr "귀하의 Mailchimp API 키"
+
+#: .././pages/options.php:238
+msgid ""
+"Please enter your MailChimp API Key above. The API Key allows your WordPress "
+"site to communicate with your MailChimp account."
+msgstr ""
+"위의 당신의 MailChimp의 API 키를 입력 해 주시기 바랍니다. API 키는 워드 프레"
+"스 사이트가 MailChimp 계정과 통신 할 수 있습니다."
+
+#: .././pages/options.php:239
+msgid "For more help, visit the MailChimp Support article"
+msgstr "더 많은 도움이 필요한 경우, MailChimp 지원 문서를 참조"
+
+#: .././pages/options.php:239
+msgid "Where can I find my API Key?"
+msgstr "어디에서 내 API 키를 찾을 수 있습니까?"
+
+#: .././pages/options.php:244
+msgid "Preferred Form Layout"
+msgstr "기본 폼 레이아웃"
+
+#: .././pages/options.php:247
+msgid "table"
+msgstr "테이블"
+
+#: .././pages/options.php:248
+msgid "div"
+msgstr "DIV"
+
+#: .././pages/options.php:256
+msgid "Choose whether you want your forms to use a table or div layout."
+msgstr ""
+"당신은 당신의 형태가 테이블 또는 DIV 레이아웃을 사용할지 여부를 선택합니다."
+
+#: .././pages/options.php:261
+msgid "Advanced Error Messaging"
+msgstr "고급 오류 메시징"
+
+#: .././pages/options.php:264
+msgid "Disabled"
+msgstr "사용 안함"
+
+#: .././pages/options.php:265
+msgid "Enabled"
+msgstr "사용"
+
+#: .././pages/options.php:273
+msgid ""
+"Enable if you're having problems with your forms sending data to MailChimp. "
+"Enabling Advanced Error Messaging will show you the exact error codes "
+"MailChimp is returning."
+msgstr ""
+"당신은 당신의 형태 MailChimp에 데이터를 전송에 문제가 발생하는 경우에 사용합"
+"니다. 고급 오류 메시징을 사용하면 당신에게 MailChimp이 반환하는 정확한 오류 "
+"코드를 표시합니다."
+
+#: .././pages/options.php:281
+msgid "Single Opt-In"
+msgstr "단일 탈퇴"
+
+#: .././pages/options.php:282
+msgid "Double Opt-In"
+msgstr "두 번 탈퇴"
+
+#: .././pages/options.php:290
+msgid ""
+"A single opt-in will add the user to your list without any further "
+"interaction."
+msgstr "하나의 선택 - 더 이상의 상호 작용없이 목록에 사용자를 추가합니다."
+
+#: .././pages/options.php:291
+msgid ""
+"A double opt-in will send an email to the user asking them to confirm their "
+"subscription."
+msgstr ""
+"선택 하에서 두 배는 등록을 확인하도록 요청하는 사용자에게 메일을 보내드립니"
+"다."
+
+#: .././pages/options.php:292
+msgid "This will also dictate the opt-in settings for people leaving comments."
+msgstr "이것은 또한 사람들이 의견을 떠나는에 대한 옵트 인 설정을 지시합니다."
+
+#: .././pages/options.php:297
+msgid "Custom Opt-In Message"
+msgstr "사용자 지정 수신 거부 메시지"
+
+#: .././pages/options.php:299
+msgid "Double Opt-In Message"
+msgstr "두 번 탈퇴 메시지"
+
+#: .././pages/options.php:301
+msgid "Single Opt-In Message"
+msgstr "단일 수신 거부 메시지"
+
+#: .././pages/options.php:307
+msgid "Interest Group Label"
+msgstr "이자 그룹 레이블"
+
+#: .././pages/options.php:316
+msgid ""
+"Text to display above interest groups. Leave blank to use MailChimp interest "
+"group names."
+msgstr ""
+"이익 집단 위에 표시 할 텍스트입니다. MailChimp 관심 그룹 이름을 사용하기 위"
+"해 비워 둡니다."
+
+#: .././pages/options.php:321
+msgid "Display opt-in checkbox on comment forms?"
+msgstr "디스플레이 주석 양식에 확인란의 선택 -?"
+
+#: .././pages/options.php:324
+msgid "Hide"
+msgstr "숨기기"
+
+#: .././pages/options.php:325
+msgid "Show"
+msgstr "표시"
+
+#: .././pages/options.php:333
+msgid ""
+"This will display a checkbox just above the submit button on all comment "
+"forms. If selected, any users leaving comments will also be added to the "
+"mailing list."
+msgstr ""
+"이것은 단지 모든 코멘트 양식의 제출 버튼 위의 체크 박스를 표시합니다. 선택한 "
+"경우, 의견을 떠나는 모든 사용자는 메일 링리스트에 추가됩니다."
+
+#: .././pages/options.php:338
+msgid "Custom Comment Checkbox Text"
+msgstr "사용자 댓글 확인란 텍스트"
+
+#: .././pages/options.php:345
+msgid "Default List"
+msgstr "기본 목록"
+
+#: .././pages/options.php:360
+msgid ""
+"This is the default list users will be subscribed to when submitting a "
+"comment."
+msgstr "이 기본 목록의 사용자 의견을 제출할 때에 등록 될 것입니다."
+
+#: .././pages/options.php:361
+msgid ""
+"It is best to select a form where only the email , first name and/or last "
+"name are required or you may run into issues."
+msgstr ""
+"그것은 이메일, 이름 및 / 또는 이름 만이 필요하거나 문제로 실행 할 수있는 형태"
+"를 선택하는 것이 가장 좋습니다."
+
+#: .././pages/options.php:373
+msgid "Plugin Information"
+msgstr "플러그인 정보"
+
+#: .././pages/options.php:376
+msgid "If you experience any issues with our plugin, please"
+msgstr "당신은 우리의 플러그인에 문제가 발생하는 경우, 제발"
+
+#: .././pages/options.php:376
+msgid "submit a New Issue on our Github Issue Tracker"
+msgstr "우리 Github에서의 이슈 트래커에 새 이슈를 제출"
+
+#: .././pages/options.php:376
+msgid ""
+"Please include the information below to help us troubleshoot your problem."
+msgstr "우리가 문제를 해결하는 데 도움이되는 아래의 정보를 포함하십시오."
+
+#: .././pages/options.php:384
+msgid "Plugin Version"
+msgstr "플러그인 버전"
+
+#: .././pages/options.php:388
+msgid "Wordpress Version"
+msgstr "워드 프레스 버전"
+
+#: .././pages/options.php:392
+msgid "Browser Information"
+msgstr "브라우저 정보"
+
+#: .././pages/options.php:420
+msgid "Error"
+msgstr "오류"
+
+#: .././pages/options.php:421
+msgid ""
+"We're sorry, but cURL is disabled on your server. The MailChimp API utilizes "
+"cURL to send and retreive data."
+msgstr ""
+"죄송하지만, 컬은 서버에 사용할 수 없습니다. MailChimp API는 데이터를 보내고 "
+"retreive에 컬을 이용한다."
+
+#: .././pages/options.php:426
+msgid "Help!"
+msgstr "도와주세요! "
+
+#: .././pages/options.php:426
+msgid "What is cURL?"
+msgstr "컬은 무엇입니까?"
+
+#: .././pages/options.php:426
+msgid "Check phpinfo()"
+msgstr "phpinfo를 확인 ()"
+
+#: .././pages/options.php:428
+msgid "Steps To Resolve The Issue"
+msgstr "이 문제를 해결하려면 단계"
+
+#: .././pages/options.php:430
+msgid ""
+"You can enable cURL by turning on the cURL module within your php.ini file"
+msgstr ""
+"당신은 당신의 php.ini 파일 내에서 컬 모듈을 설정하여 컬을 활성화 할 수 있습니"
+"다"
+
+#: .././pages/options.php:430
+msgid "You should find the php.ini file located here : "
+msgstr "당신은 여기에 php.ini 파일을 찾을 수 있어야합니다 :"
+
+#: .././pages/options.php:431
+msgid ""
+"Once found, open up php.ini and locate the line \";extension=php_curl.dll\"."
+msgstr ""
+"일단 발견, php.ini 파일을 열고 라인를 찾습니다 \", 확장 = php_curl.dll \"."
+
+#: .././pages/options.php:432
+msgid ""
+"Remove the semi colon before the line, to un-comment it and make the module "
+"active."
+msgstr ", 줄 앞에 세미콜론을 제거에 주석 처리를 해제하고 모듈을 활성화."
+
+#: .././pages/options.php:433
+msgid "Re-save and close the file."
+msgstr "다시 파일을 저장하고 닫습니다."
+
+#: .././pages/options.php:434
+msgid "Re-load this page."
+msgstr "이 페이지를 다시로드합니다."
+
+#: .././templates/shortcode_error.php:1
+msgid "There was an error calling the mailchimp list."
+msgstr "mailchimp 목록을 호출하는 동안 오류가 발생했습니다."
+
+#: .././templates/shortcode_error_data.php:1
+msgid ""
+"The list doesn't exist! Make sure you have imported the list on the \"Manage "
+"List Forms\" page."
+msgstr ""
+"목록이 존재하지 않습니다! 당신은 \"목록 양식 관리 \"페이지 에있는 목록을 가져"
+"온 확인하십시오."
+
+#: .././templates/shortcode_error_exists.php:1
+msgid "This list was already placed on this page!"
+msgstr "이 목록은 이미이 페이지에 게재되었습니다!"
+
+#: .././templates/shortcode_error_no_API_key.php:1
+msgid "Woops! No Valid API Key Found. Double check your settings."
+msgstr "Woops! 찾을 유효한 API 키가 없습니다. 두 번 설정을 확인합니다."
+
+#: .././templates/shortcode_form.php:11
+msgid "Oops.. Don't forget to fill-in the following fields"
+msgstr "죄송합니다 .. 채우기에 다음 필드 잊지 마세요"
+
+#: .././templates/shortcode_form.php:74
+msgid "required field"
+msgstr "필수 항목"
+
+#: .././templates/yikes-mailchimp-widget.php:15
+#: .././templates/yikes-mailchimp-widget.php:18
+msgid "MailChimp Signup Form"
+msgstr "MailChimp 가입 양식"
+
+#: .././templates/yikes-mailchimp-widget.php:27
+msgid "Select Which Form You Would Like To Display:"
+msgstr "당신은 표시하고자하는 양식 선택"
+
+#: .././templates/yikes-mailchimp-widget.php:30
+msgid "Select a Form to Display"
+msgstr "표시 할 양식을 선택합니다"
+
+#: .././templates/yikes-mailchimp-widget.php:47
+msgid "Please import MailChimp forms"
+msgstr "MailChimp 양식을 가져 오십시오"
+
+#: .././templates/yikes-mailchimp-widget.php:49
+msgid "Please import some lists from MailChimp"
+msgstr "MailChimp에서 일부 목록을 가져 오십시오"
+
+#: .././templates/yikes-mailchimp-widget.php:52
+msgid "Import Lists Now"
+msgstr "지금 가져 오기 목록"
+
+#: .././templates/yikes-mailchimp-widget.php:73
+msgid ""
+"Oops! It looks like you haven't imported any lists yet. You must import at "
+"least one list to use the Easy MailChimp widget."
+msgstr ""
+"아차! 당신은 아직 목록을 가져 오지 않은 것 같습니다. 당신은 쉬운 MailChimp 위"
+"젯을 사용하는 적어도 하나의 목록을 가져와야합니다."
+
+#: .././templates/yikes-mailchimp-widget.php:80
+msgid ""
+"Oops! It looks like you forgot to select a form to display here. Go to "
+"'Appearance > Widgets' and select a form to display."
+msgstr ""
+"아차! 여기에 표시 할 양식을 선택하는 것을 잊은 것 같습니다. '모양> 위젯'으로 "
+"이동하여 표시 할 양식을 선택합니다."
+
+#: .././templates/yikes-mailchimp-widget.php:117
+msgid "Sign Up For Our Newsletter"
+msgstr "우리의 뉴스 레터에 가입"
+
+#: .././templates/yikes-mailchimp-widget.php:129
+msgid "Sign Me Up"
+msgstr "저 회원 가입"
+
+#: .././templates/yikes-mailchimp-widget.php:133
+msgid "Title:"
+msgstr "제목:"
+
+#: .././templates/yikes-mailchimp-widget.php:138
+msgid "Form Text:"
+msgstr "양식 텍스트 :"
+
+#: .././templates/yikes-mailchimp-widget.php:146
+msgid "Submit Button Text:"
+msgstr "단추 텍스트를 제출 :"
+
+#: .././templates/yikes-mailchimp-widget.php:156
+msgid "Oops! It looks like you haven't added your API key! Head over to the"
+msgstr "아차! 당신은 당신의 API 키를 추가하지 않은 것 같습니다! 로 향할"
+
+#: .././templates/yikes-mailchimp-widget.php:156
+msgid "Settings page"
+msgstr "설정 페이지"
+
+#~ msgid "No API Key or List Id Exist!"
+#~ msgstr "어떤 API 키 또는리스트 ID가 존재하지 않습니다!"

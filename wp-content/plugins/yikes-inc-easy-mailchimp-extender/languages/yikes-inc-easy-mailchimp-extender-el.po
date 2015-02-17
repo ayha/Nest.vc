@@ -1,0 +1,792 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yikes Inc. Easy MailChimp Plugin\n"
+"POT-Creation-Date: 2014-04-23 13:25-0500\n"
+"PO-Revision-Date: 2014-04-23 14:47-0500\n"
+"Last-Translator: Evan <evan.m.herman@gmail.com>\n"
+"Language-Team: Yikes Inc. <evan@yikesinc.com>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././classes/class.yksemeBase.php:114
+#: .././classes/class.yksemeBase.php:1287
+msgid "Thank You for subscribing!"
+msgstr "Σας ευχαριστούμε για την εγγραφή!"
+
+#: .././classes/class.yksemeBase.php:115
+#: .././classes/class.yksemeBase.php:1288
+msgid ""
+"Thank You for subscribing! Check your email for the confirmation message."
+msgstr ""
+"Σας ευχαριστούμε για την εγγραφή! Ελέγξτε το email σας για μήνυμα "
+"επιβεβαίωσης."
+
+#: .././classes/class.yksemeBase.php:116
+msgid "Select Your Area of Interest"
+msgstr "Επιλέξτε περιοχή που σας ενδιαφέρει"
+
+#: .././classes/class.yksemeBase.php:917
+msgid "Click on a subscriber to see further information"
+msgstr "Κάντε κλικ σε ένα συνδρομητή για να δείτε περισσότερες πληροφορίες"
+
+#: .././classes/class.yksemeBase.php:920
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: .././classes/class.yksemeBase.php:921
+msgid "Date Subscribed"
+msgstr "Ημερομηνία Εγγεγραμμένα"
+
+#: .././classes/class.yksemeBase.php:941
+msgid "Sorry You Don't Currently Have Any Subscribers In This List!"
+msgstr ""
+"Συγνώμη Δεν έχουν επί του παρόντος κανένα συνδρομητές σε αυτή τη λίστα!"
+
+#: .././classes/class.yksemeBase.php:998
+msgid "Back to Subscriber List"
+msgstr "Επιστροφή στην λίστα συνδρομητών"
+
+#: .././classes/class.yksemeBase.php:999
+msgid "Subscriber Details"
+msgstr "Στοιχεία συνδρομητή"
+
+#: .././classes/class.yksemeBase.php:1010
+msgid "Overview"
+msgstr "Επισκόπηση"
+
+#: .././classes/class.yksemeBase.php:1015
+msgid "First Name"
+msgstr "Όνομα"
+
+#: .././classes/class.yksemeBase.php:1018
+msgid "Last Updated"
+msgstr "Τελευταία Ενημέρωση"
+
+#: .././classes/class.yksemeBase.php:1021
+msgid "Preferred Email Type"
+msgstr "Προτιμώμενη Email Τύπος"
+
+#: .././classes/class.yksemeBase.php:1028
+msgid "Last Name"
+msgstr "Επώνυμο"
+
+#: .././classes/class.yksemeBase.php:1031
+msgid "Language"
+msgstr "γλώσσα"
+
+#: .././classes/class.yksemeBase.php:1054
+msgid "Groups Subscribed To"
+msgstr "Ομάδες Εγγεγραμμένα να"
+
+#: .././classes/class.yksemeBase.php:1104
+msgid "Subscriber Notes"
+msgstr "Σημειώσεις συνδρομητή"
+
+#: .././classes/class.yksemeBase.php:1109
+msgid "Written by"
+msgstr "Συντάχθηκε απο τον"
+
+#: .././classes/class.yksemeBase.php:1109
+msgid "Created on"
+msgstr "Δημιουργήθηκε στις"
+
+#: .././classes/class.yksemeBase.php:1251
+#: .././classes/class.yksemeBase.php:1253
+msgid "MailChimp Forms"
+msgstr "MailChimp Έντυπα"
+
+#: .././classes/class.yksemeBase.php:1253
+msgid "MailChimp Settings"
+msgstr "Ρυθμίσεις MailChimp"
+
+#: .././classes/class.yksemeBase.php:1254
+msgid "Manage List Forms"
+msgstr "Διαχειριστείτε Έντυπα Λίστα"
+
+#: .././classes/class.yksemeBase.php:1255 .././pages/about.php:5
+msgid "About YIKES, Inc."
+msgstr "Σχετικά με YIKES, Inc"
+
+#: .././classes/class.yksemeBase.php:1430
+msgid "One or more fields are empty"
+msgstr "Ένα ή περισσότερα πεδία είναι κενά"
+
+#: .././classes/class.yksemeBase.php:1480
+msgid "Your List Was Successfully Saved!"
+msgstr "Η λίστα σας αποθηκεύτηκε με επιτυχία!"
+
+#: .././classes/class.yksemeBase.php:1482
+msgid "I'm sorry there was an error with your request."
+msgstr "Λυπάμαι υπήρχε σφάλμα με το αίτημά σας."
+
+#: .././classes/class.yksemeBase.php:1488
+msgid "MailChimp List name"
+msgstr "Όνομα MailChimp Λίστα"
+
+#: .././classes/class.yksemeBase.php:1494
+#: .././classes/class.yksemeBase.php:1504
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: .././classes/class.yksemeBase.php:1512
+msgid "MailChimp List ID"
+msgstr "MailChimp Λίστα ID"
+
+#: .././classes/class.yksemeBase.php:1518
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: .././classes/class.yksemeBase.php:1521
+msgid ""
+"Paste this shortcode into whatever page or post you want to add this form to"
+msgstr ""
+"Επικολλήστε αυτόν τον shortcode σε ό, τι σελίδα ή να δημοσιεύσετε θέλετε να "
+"προσθέσετε αυτή τη φόρμα για να"
+
+#: .././classes/class.yksemeBase.php:1526
+msgid "PHP Snippet"
+msgstr "PHP αποσπασμάτων"
+
+#: .././classes/class.yksemeBase.php:1529
+msgid "Use this code to add this form to a template file"
+msgstr ""
+"Χρησιμοποιήστε αυτόν τον κωδικό για να προσθέσετε αυτή τη μορφή σε ένα "
+"πρότυπο αρχείο"
+
+#: .././classes/class.yksemeBase.php:1534
+msgid "Number of Subscribers"
+msgstr "Αριθμός Συνδρομητών"
+
+#: .././classes/class.yksemeBase.php:1543
+msgid "Form Fields"
+msgstr "Τα πεδία φόρμας"
+
+#: .././classes/class.yksemeBase.php:1545
+msgid ""
+"Check the fields you want included in your form (Email Address is required)."
+msgstr ""
+"Ελέγξτε τα πεδία που θέλετε να συμπεριληφθούν στη φόρμα σας (διεύθυνση "
+"ηλεκτρονικού ταχυδρομείου απαιτείται)."
+
+#: .././classes/class.yksemeBase.php:1548
+msgid ""
+"Use the green arrows to drag-and-drop the fields and rearrange their order."
+msgstr ""
+"Χρησιμοποιήστε τα πράσινα βέλη για να drag-and-drop τα πεδία και να "
+"αναδιατάξετε τη σειρά τους."
+
+#: .././classes/class.yksemeBase.php:1554
+msgid "Active Fields"
+msgstr "Ενεργά πεδία"
+
+#: .././classes/class.yksemeBase.php:1563
+msgid "Drag"
+msgstr "Τραβήξτε"
+
+#: .././classes/class.yksemeBase.php:1563
+msgid "drop"
+msgstr "πτώση"
+
+#: .././classes/class.yksemeBase.php:1568
+msgid "Merge field"
+msgstr "Συγχώνευση τομέα"
+
+#: .././classes/class.yksemeBase.php:1569
+msgid "Placeholder"
+msgstr "Κράτηση θέσης"
+
+#: .././classes/class.yksemeBase.php:1577
+msgid "Redirect User On Submission"
+msgstr "Ανακατεύθυνση χρήστη για Υποβολή"
+
+#: .././classes/class.yksemeBase.php:1581
+msgid "choose a page to redirect the user to after they submit the form."
+msgstr ""
+"επιλέξετε μια σελίδα ή να ορίσετε μια προσαρμοσμένη διεύθυνση URL για να "
+"ανακατευθύνει τον χρήστη σε μετά την υποβολή της φόρμας."
+
+#: .././classes/class.yksemeBase.php:1584
+msgid "Select A Post/Page"
+msgstr "Επιλέξτε ένα Post / Σελίδα"
+
+#: .././classes/class.yksemeBase.php:1638
+msgid "Save Form Settings"
+msgstr "Διαχειριστείτε Mailchimp Έντυπα Ρυθμίσεις"
+
+#: .././classes/class.yksemeBase.php:1639
+msgid "Delete Form"
+msgstr "Διαγραφή Φόρμα"
+
+#: .././classes/class.yksemeBase.php:1640
+msgid "Re-Import Form Fields from MailChimp"
+msgstr "Παρακαλώ εισάγετε κάποιες λίστες από MailChimp"
+
+#: .././classes/class.yksemeBase.php:2168
+msgid "Sign Me Up For MAILCHIMP-REPLACE-THIS-TEXT's Newsletter"
+msgstr ""
+"Sign Me Up For Ενημερωτικό Δελτίο Mailchimp-ΑΝΤΙΚΑΤΑΣΤΑΣΗ-ΑΥΤΟ-TEXT της"
+
+#: .././pages/about.php:27
+msgid "YIKES, Inc. Web Design and Development"
+msgstr "YIKES, Inc Web Σχεδιασμός και Ανάπτυξη"
+
+#: .././pages/about.php:29
+msgid "Smart, effective, beautifully designed web solutions"
+msgstr "Έξυπνη, αποτελεσματική, όμορφα σχεδιασμένες λύσεις web"
+
+#: .././pages/about.php:32
+msgid ""
+"YIKES is located in the Fishtown neighborhood of Philadelphia where we build "
+"custom WordPress themes and plugins every day."
+msgstr ""
+"YIKES βρίσκεται στη γειτονιά Fishtown της Φιλαδέλφειας, όπου χτίζουμε έθιμο "
+"WordPress θέματα και plugins κάθε μέρα."
+
+#: .././pages/about.php:36
+msgid ""
+"At YIKES we love WordPress! Co-Owner, Tracy Levesque has presented at "
+"WordCamps"
+msgstr ""
+"Στο YIKES αγαπάμε WordPress! Co-Owner, Tracy Levesque έχει παρουσιάσει σε "
+"WordCamps"
+
+#: .././pages/about.php:36
+msgid "and"
+msgstr "και"
+
+#: .././pages/about.php:36
+msgid "She also teaches WordPress classes for"
+msgstr "Διδάσκει επίσης μαθήματα για WordPress"
+
+#: .././pages/about.php:40
+msgid ""
+"In addition to making great WordPress sites we are also committed to the "
+"sustainable business movement. We observe the triple bottom line: people, "
+"planet, profit and work to help build a more socially, environmentally and "
+"financially sustainable local economy. We even have a"
+msgstr ""
+"Εκτός από τις μεγάλες περιοχές WordPress έχουμε επίσης δεσμευτεί για την "
+"αειφόρο μετακίνηση των επιχειρήσεων. Παρατηρούμε την τριπλή κατώτατη γραμμή: "
+"οι άνθρωποι, πλανήτης, κέρδος και την εργασία για να βοηθήσει στην "
+"οικοδόμηση μια πιο κοινωνικά, περιβαλλοντικά και οικονομικά βιώσιμη τοπική "
+"οικονομία. Έχουμε ακόμη ένα"
+
+#: .././pages/about.php:40
+msgid "LEED Platinum office"
+msgstr "LEED Platinum γραφείο"
+
+#: .././pages/about.php:44
+msgid ""
+"If you're interested in hiring us for WordPress development, or just want to "
+"learn more about us, please visit"
+msgstr ""
+"Αν σας ενδιαφέρει να μας πρόσληψη για WordPress ανάπτυξη, ή απλά θέλετε να "
+"μάθετε περισσότερα για εμάς, παρακαλώ επισκεφθείτε την ιστοσελίδα"
+
+#: .././pages/lists.php:8
+msgid "No forms have been added yet."
+msgstr "Δεν υπάρχουν έντυπα έχει προστεθεί ακόμα."
+
+#: .././pages/lists.php:39
+msgid "Oops.. The list ID you entered appears to be incorrect."
+msgstr ""
+"Ωχ .. Το αναγνωριστικό λίστα που εισάγατε φαίνεται να είναι λανθασμένη."
+
+#: .././pages/lists.php:44
+msgid "There was an error!"
+msgstr "Υπήρξε ένα σφάλμα!"
+
+#: .././pages/lists.php:135
+msgid "You need to select a Mailchimp list in order to create a form for it"
+msgstr ""
+"Θα πρέπει να επιλέξετε μια λίστα Mailchimp προκειμένου να δημιουργήσετε μια "
+"φόρμα για την"
+
+#: .././pages/lists.php:173
+msgid "Are you sure you want to delete this form?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτό το έντυπο;"
+
+#: .././pages/lists.php:206
+msgid "Are you sure you want to re-import your fields from MailChimp?"
+msgstr "Είστε βέβαιοι ότι θέλετε να επαν-εισάγετε τα πεδία σας από MailChimp;"
+
+#: .././pages/lists.php:228
+msgid "Looks like this form is already up to date!"
+msgstr "Μοιάζει αυτή η μορφή είναι ήδη μέχρι σήμερα!"
+
+#: .././pages/lists.php:326
+msgid "Are you sure you want to unsubscribe"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγραφείτε"
+
+#: .././pages/lists.php:326
+msgid "from this list?"
+msgstr "από αυτή τη λίστα;"
+
+#: .././pages/lists.php:342
+msgid "was successfully unsubscribed from this list."
+msgstr "με επιτυχία την εγγραφή σας από αυτήν τη λίστα."
+
+#: .././pages/lists.php:448 .././pages/options.php:196
+#: .././pages/options.php:416
+msgid "Easy Mailchimp Forms by YIKES, Inc."
+msgstr "Εύκολη Mailchimp Μορφές από YIKES, Inc"
+
+#: .././pages/lists.php:454
+msgid "Before you can add MailChimp forms to your site, you need to"
+msgstr ""
+"Για να μπορέσετε να προσθέσετε MailChimp φόρμες στο site σας, θα πρέπει να"
+
+#: .././pages/lists.php:454
+msgid "go to the MailChimp Settings page"
+msgstr "μεταβείτε στη σελίδα Ρυθμίσεις MailChimp"
+
+#: .././pages/lists.php:454 .././templates/yikes-mailchimp-widget.php:156
+msgid "and add your API Key."
+msgstr "και να προσθέσετε το κλειδί API σας."
+
+#: .././pages/lists.php:462
+msgid "You must enter a valid API key to import and manage your lists."
+msgstr ""
+"Πρέπει να εισάγετε ένα έγκυρο κλειδί API για την εισαγωγή και να "
+"διαχειριστείτε λίστες σας."
+
+#: .././pages/lists.php:473
+msgid "Your Lists"
+msgstr "Λίστες σας"
+
+#: .././pages/lists.php:483
+msgid "Manage Forms"
+msgstr "Διαχειριστείτε Έντυπα"
+
+#: .././pages/options.php:41
+msgid "The options were saved successfully!"
+msgstr "Οι επιλογές αποθηκεύτηκαν με επιτυχία!"
+
+#: .././pages/options.php:44
+msgid "The options could not be saved (or you did not change them)."
+msgstr "Οι επιλογές αυτές δεν θα μπορούσαν να σωθούν (ή δεν τους αλλάζουν)."
+
+#: .././pages/options.php:96
+msgid "Valid API Key"
+msgstr "Ισχύει το κλειδί API"
+
+#: .././pages/options.php:102
+msgid "Sorry, that is an invalid MailChimp API key."
+msgstr "Συγγνώμη, αυτό είναι ένα έγκυρο κλειδί MailChimp API."
+
+#: .././pages/options.php:108
+msgid ""
+"Sorry, that is an invalid MailChimp API key. Please check the console for "
+"further information."
+msgstr ""
+"Συγγνώμη, αυτό είναι ένα έγκυρο κλειδί MailChimp API. Παρακαλείστε να "
+"ελέγξετε την κονσόλα για περισσότερες πληροφορίες."
+
+#: .././pages/options.php:117
+msgid "Error: Please enter a valid Mail Chimp API Key."
+msgstr "Σφάλμα: Παρακαλώ εισάγετε ένα έγκυρο Mail χιμπατζή API Key."
+
+#: .././pages/options.php:199
+msgid "Manage Mailchimp Forms Settings"
+msgstr "Διαχειριστείτε Mailchimp Έντυπα Ρυθμίσεις"
+
+#: .././pages/options.php:205
+msgid "WordPress Version Number Error"
+msgstr "Wordpress Έκδοση"
+
+#: .././pages/options.php:206
+msgid ""
+"We're sorry, but it looks like your using an outdated version of WordPress. "
+"You won't be able to access the tinyMCE button to insert forms into pages "
+"and posts unless you update to 3.9 or later."
+msgstr ""
+"Δυστυχώς, αλλά μοιάζει με σας, χρησιμοποιώντας μια παλιά έκδοση του "
+"WordPress. Δεν θα είναι σε θέση να έχουν πρόσβαση στο κουμπί tinyMCE να "
+"εισάγετε φόρμες σε σελίδες και δημοσιεύσεις εκτός και αν ενημερώσετε σε 3,9 "
+"ή νεότερη έκδοση."
+
+#: .././pages/options.php:215
+msgid "LocalHost Detected :"
+msgstr "Εντοπίστηκε localhost:"
+
+#: .././pages/options.php:216
+msgid ""
+"It looks like your using Easy MailChimp Forms by YIKES Inc. on localhost."
+msgstr "Εύκολη Mailchimp Μορφές από YIKES, Inc"
+
+#: .././pages/options.php:217
+msgid ""
+"If you are unable to validate your API key, and receive the error message"
+msgstr ""
+"Εάν δεν είστε σε θέση να επικυρώσει το κλειδί API, και να λάβετε το μήνυμα "
+"λάθους"
+
+#: .././pages/options.php:217
+msgid "\"SSL certificate problem: unable to get local issuer certificate\" "
+msgstr ""
+"\"Πρόβλημα πιστοποιητικό SSL: μπορεί να περάσει τοπική πιστοποιητικό εκδότη"
+"\" "
+
+#: .././pages/options.php:217
+msgid "follow the tutorial located "
+msgstr "ακολουθούν το φροντιστήριο που βρίσκεται "
+
+#: .././pages/options.php:230
+msgid "Your Mailchimp API Key"
+msgstr "Mailchimp σας το κλειδί API"
+
+#: .././pages/options.php:238
+msgid ""
+"Please enter your MailChimp API Key above. The API Key allows your WordPress "
+"site to communicate with your MailChimp account."
+msgstr ""
+"Παρακαλώ εισάγετε το MailChimp API Key παραπάνω. Το Κλειδί API επιτρέπει "
+"WordPress site σας για να επικοινωνούν με το λογαριασμό σας MailChimp."
+
+#: .././pages/options.php:239
+msgid "For more help, visit the MailChimp Support article"
+msgstr "Για περισσότερη βοήθεια, επισκεφθείτε το άρθρο MailChimp Υποστήριξη"
+
+#: .././pages/options.php:239
+msgid "Where can I find my API Key?"
+msgstr "Πού μπορώ να βρω μου API κλειδί;"
+
+#: .././pages/options.php:244
+msgid "Preferred Form Layout"
+msgstr "Προτιμώμενη μορφή διάταξης"
+
+#: .././pages/options.php:247
+msgid "table"
+msgstr "πίνακας"
+
+#: .././pages/options.php:248
+msgid "div"
+msgstr "div"
+
+#: .././pages/options.php:256
+msgid "Choose whether you want your forms to use a table or div layout."
+msgstr ""
+"Επιλέξτε αν θέλετε φόρμες σας να χρησιμοποιήσετε έναν πίνακα ή διάταξη div."
+
+#: .././pages/options.php:261
+msgid "Advanced Error Messaging"
+msgstr "Σύνθετη Σφάλμα Μηνύματα"
+
+#: .././pages/options.php:264
+msgid "Disabled"
+msgstr "Απενεργοποιημένο"
+
+#: .././pages/options.php:265
+msgid "Enabled"
+msgstr "Ενεργοποιημένο"
+
+#: .././pages/options.php:273
+msgid ""
+"Enable if you're having problems with your forms sending data to MailChimp. "
+"Enabling Advanced Error Messaging will show you the exact error codes "
+"MailChimp is returning."
+msgstr ""
+"Ενεργοποιήστε, αν έχετε προβλήματα με τις μορφές σας την αποστολή δεδομένων "
+"σε MailChimp. Ενεργοποίηση Σύνθετη Μηνύματα λάθους θα σας δείξει την ακριβή "
+"κωδικούς σφαλμάτων MailChimp επιστρέφει."
+
+#: .././pages/options.php:281
+msgid "Single Opt-In"
+msgstr "Ενιαία Opt-In"
+
+#: .././pages/options.php:282
+msgid "Double Opt-In"
+msgstr "Double Opt-In"
+
+#: .././pages/options.php:290
+msgid ""
+"A single opt-in will add the user to your list without any further "
+"interaction."
+msgstr ""
+"Ένα ενιαίο opt-in θα προσθέσετε το χρήστη στη λίστα σας, χωρίς περαιτέρω "
+"ενέργειες."
+
+#: .././pages/options.php:291
+msgid ""
+"A double opt-in will send an email to the user asking them to confirm their "
+"subscription."
+msgstr ""
+"Ένα διπλό opt-in θα στείλει ένα email στο χρήστη ζητώντας τους να "
+"επιβεβαιώσουν την εγγραφή τους."
+
+#: .././pages/options.php:292
+msgid "This will also dictate the opt-in settings for people leaving comments."
+msgstr ""
+"Αυτό θα υπαγορεύσει επίσης τις ρυθμίσεις opt-in για άτομα που αφήνουν σχόλια."
+
+#: .././pages/options.php:297
+msgid "Custom Opt-In Message"
+msgstr "Προσαρμοσμένη Opt-In μήνυμα"
+
+#: .././pages/options.php:299
+msgid "Double Opt-In Message"
+msgstr "Double Opt-In μήνυμα"
+
+#: .././pages/options.php:301
+msgid "Single Opt-In Message"
+msgstr "Ενιαία μήνυμα Opt-In"
+
+#: .././pages/options.php:307
+msgid "Interest Group Label"
+msgstr "Ομάδα Ενδιαφέροντος Label"
+
+#: .././pages/options.php:316
+msgid ""
+"Text to display above interest groups. Leave blank to use MailChimp interest "
+"group names."
+msgstr ""
+"Κείμενο που εμφανίζεται πάνω από ομάδες συμφερόντων. Αφήστε το κενό για να "
+"χρησιμοποιήσετε τα ονόματα των ομάδων συμφερόντων MailChimp."
+
+#: .././pages/options.php:321
+msgid "Display opt-in checkbox on comment forms?"
+msgstr "Εμφάνιση opt-in κουτάκι μορφές σχόλιο;"
+
+#: .././pages/options.php:324
+msgid "Hide"
+msgstr "Απόκρυψη"
+
+#: .././pages/options.php:325
+msgid "Show"
+msgstr "Εμφάνιση"
+
+#: .././pages/options.php:333
+msgid ""
+"This will display a checkbox just above the submit button on all comment "
+"forms. If selected, any users leaving comments will also be added to the "
+"mailing list."
+msgstr ""
+"Αυτό θα εμφανίσει ένα κουτάκι ακριβώς πάνω από το κουμπί υποβολής για όλες "
+"τις μορφές σχόλιο. Αν επιλεγεί, όλοι οι χρήστες, αφήνοντας τα σχόλια θα "
+"πρέπει επίσης να προστεθούν στη λίστα."
+
+#: .././pages/options.php:338
+msgid "Custom Comment Checkbox Text"
+msgstr "Προσαρμοσμένη Σχόλιο Checkbox Κείμενο"
+
+#: .././pages/options.php:345
+msgid "Default List"
+msgstr "Προεπιλογή Λίστα"
+
+#: .././pages/options.php:360
+msgid ""
+"This is the default list users will be subscribed to when submitting a "
+"comment."
+msgstr ""
+"Αυτή είναι η προεπιλεγμένη λίστα χρήστες θα εγγραφεί κατά την υποβολή ένα "
+"σχόλιο."
+
+#: .././pages/options.php:361
+msgid ""
+"It is best to select a form where only the email , first name and/or last "
+"name are required or you may run into issues."
+msgstr ""
+"Είναι καλύτερο να επιλέξετε μια φόρμα όπου μόνο το e-mail, όνομα ή / και "
+"επώνυμο απαιτούνται ή μπορεί να τρέχει σε θέματα."
+
+#: .././pages/options.php:373
+msgid "Plugin Information"
+msgstr "Plugin πληροφορίες"
+
+#: .././pages/options.php:376
+msgid "If you experience any issues with our plugin, please"
+msgstr "Εάν αντιμετωπίσετε προβλήματα με το plugin μας, παρακαλούμε"
+
+#: .././pages/options.php:376
+msgid "submit a New Issue on our Github Issue Tracker"
+msgstr "υποβάλει Νέα Έκδοση για μας Tracker Github Τεύχος"
+
+#: .././pages/options.php:376
+msgid ""
+"Please include the information below to help us troubleshoot your problem."
+msgstr ""
+"Παρακαλούμε να συμπεριλάβετε τις παρακάτω πληροφορίες για να μας βοηθήσουν "
+"να αντιμετωπίσετε το πρόβλημα."
+
+#: .././pages/options.php:384
+msgid "Plugin Version"
+msgstr "Έκδοση Plugin"
+
+#: .././pages/options.php:388
+msgid "Wordpress Version"
+msgstr "Wordpress Έκδοση"
+
+#: .././pages/options.php:392
+msgid "Browser Information"
+msgstr "Πληροφορίες Browser"
+
+#: .././pages/options.php:420
+msgid "Error"
+msgstr "Σφάλμ"
+
+#: .././pages/options.php:421
+msgid ""
+"We're sorry, but cURL is disabled on your server. The MailChimp API utilizes "
+"cURL to send and retreive data."
+msgstr ""
+"Δυστυχώς, όμως cURL είναι απενεργοποιημένη στο διακομιστή σας. Το MailChimp "
+"API χρησιμοποιεί cURL για την αποστολή και retreive δεδομένων."
+
+#: .././pages/options.php:426
+msgid "Help!"
+msgstr "Βοήθεια!"
+
+#: .././pages/options.php:426
+msgid "What is cURL?"
+msgstr "Τι είναι cURL;"
+
+#: .././pages/options.php:426
+msgid "Check phpinfo()"
+msgstr "Ελέγξτε phpinfo ()"
+
+#: .././pages/options.php:428
+msgid "Steps To Resolve The Issue"
+msgstr "Βήματα για την επίλυση του ζητήματος"
+
+#: .././pages/options.php:430
+msgid ""
+"You can enable cURL by turning on the cURL module within your php.ini file"
+msgstr ""
+"Μπορείτε να ενεργοποιήσετε cURL από την ενεργοποίηση του cURL ενότητα μέσα "
+"στο αρχείο php.ini σας"
+
+#: .././pages/options.php:430
+msgid "You should find the php.ini file located here : "
+msgstr "Θα πρέπει να βρείτε το αρχείο php.ini που βρίσκεται εδώ: "
+
+#: .././pages/options.php:431
+msgid ""
+"Once found, open up php.ini and locate the line \";extension=php_curl.dll\"."
+msgstr ""
+"Μόλις βρεθεί, να ανοίξει το αρχείο php.ini και να εντοπίσετε τη γραμμή \"? "
+"Επέκταση = php_curl.dll\"."
+
+#: .././pages/options.php:432
+msgid ""
+"Remove the semi colon before the line, to un-comment it and make the module "
+"active."
+msgstr ""
+"Αφαιρέστε την άνω τελεία πριν από τη γραμμή, για να un-σχόλιο και να κάνει η "
+"μονάδα ενεργό."
+
+#: .././pages/options.php:433
+msgid "Re-save and close the file."
+msgstr "Re-αποθηκεύστε και κλείστε το αρχείο."
+
+#: .././pages/options.php:434
+msgid "Re-load this page."
+msgstr "Re-φορτώσει αυτήν τη σελίδα."
+
+#: .././templates/shortcode_error.php:1
+msgid "There was an error calling the mailchimp list."
+msgstr "Υπήρξε ένα σφάλμα κατά την κλήση του καταλόγου MailChimp."
+
+#: .././templates/shortcode_error_data.php:1
+msgid ""
+"The list doesn't exist! Make sure you have imported the list on the \"Manage "
+"List Forms\" page."
+msgstr ""
+"Ο κατάλογος δεν υπάρχει! Βεβαιωθείτε ότι έχετε εισαγάγει τη λίστα στο "
+"\"Manage Forms Λίστα\" σελίδα."
+
+#: .././templates/shortcode_error_exists.php:1
+msgid "This list was already placed on this page!"
+msgstr "Ο κατάλογος αυτός έχει ήδη τοποθετηθεί σε αυτή τη σελίδα!"
+
+#: .././templates/shortcode_error_no_API_key.php:1
+msgid "Woops! No Valid API Key Found. Double check your settings."
+msgstr "Woops! Δεν Ισχύει API Key βρέθηκαν. Διπλό ελέγξτε τις ρυθμίσεις σας."
+
+#: .././templates/shortcode_form.php:11
+msgid "Oops.. Don't forget to fill-in the following fields"
+msgstr "Ωχ .. Μην ξεχάσετε να συμπληρώσετε τα παρακάτω πεδία:"
+
+#: .././templates/shortcode_form.php:74
+msgid "required field"
+msgstr "υποχρεωτικό πεδίο"
+
+#: .././templates/yikes-mailchimp-widget.php:15
+#: .././templates/yikes-mailchimp-widget.php:18
+msgid "MailChimp Signup Form"
+msgstr "MailChimp Αίτηση εισόδου"
+
+#: .././templates/yikes-mailchimp-widget.php:27
+msgid "Select Which Form You Would Like To Display:"
+msgstr "Επιλέξτε το έντυπο που θα θέλατε να εμφανίζονται:"
+
+#: .././templates/yikes-mailchimp-widget.php:30
+msgid "Select a Form to Display"
+msgstr "Επιλέξτε ένα έντυπο για την εμφάνιση"
+
+#: .././templates/yikes-mailchimp-widget.php:47
+msgid "Please import MailChimp forms"
+msgstr "Παρακαλώ εισάγετε MailChimp μορφές"
+
+#: .././templates/yikes-mailchimp-widget.php:49
+msgid "Please import some lists from MailChimp"
+msgstr "Παρακαλώ εισάγετε κάποιες λίστες από MailChimp"
+
+#: .././templates/yikes-mailchimp-widget.php:52
+msgid "Import Lists Now"
+msgstr "Λίστες Εισαγωγή Τώρα"
+
+#: .././templates/yikes-mailchimp-widget.php:73
+msgid ""
+"Oops! It looks like you haven't imported any lists yet. You must import at "
+"least one list to use the Easy MailChimp widget."
+msgstr ""
+"Ωχ! Φαίνεται ότι δεν εισήγαγε λίστες ακόμα. Θα πρέπει να εισάγετε "
+"τουλάχιστον μια λίστα για να χρησιμοποιήσετε το widget Easy MailChimp."
+
+#: .././templates/yikes-mailchimp-widget.php:80
+msgid ""
+"Oops! It looks like you forgot to select a form to display here. Go to "
+"'Appearance > Widgets' and select a form to display."
+msgstr ""
+"Ωχ! Φαίνεται σαν να ξέχασε να επιλέξετε μια μορφή για να εμφανιστεί εδώ. "
+"Πηγαίνετε στο «Εμφάνιση> Widgets» και επιλέξτε μια μορφή για να εμφανιστεί."
+
+#: .././templates/yikes-mailchimp-widget.php:117
+msgid "Sign Up For Our Newsletter"
+msgstr "Εγγραφή Στο Newsletter"
+
+#: .././templates/yikes-mailchimp-widget.php:129
+msgid "Sign Me Up"
+msgstr "Sign Me Up"
+
+#: .././templates/yikes-mailchimp-widget.php:133
+msgid "Title:"
+msgstr "Τίτλος:"
+
+#: .././templates/yikes-mailchimp-widget.php:138
+msgid "Form Text:"
+msgstr "Μορφή κειμένου:"
+
+#: .././templates/yikes-mailchimp-widget.php:146
+msgid "Submit Button Text:"
+msgstr "Υποβολή Button Κείμενο:"
+
+#: .././templates/yikes-mailchimp-widget.php:156
+msgid "Oops! It looks like you haven't added your API key! Head over to the"
+msgstr ""
+"Ωχ! Φαίνεται ότι δεν έχετε προσθέσει το κλειδί API σας! Κεφάλι πάνω στο"
+
+#: .././templates/yikes-mailchimp-widget.php:156
+msgid "Settings page"
+msgstr "Στη σελίδα Ρυθμίσεις"
+
+#~ msgid "No API Key or List Id Exist!"
+#~ msgstr "Δεν κλειδί API ή Αναγνωριστικό λίστας Exist!"
